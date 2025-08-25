@@ -135,7 +135,7 @@ if __name__ == '__main__':
     client_program()
 ```
 ## Output:
-![alt text](image.png)
+<img width="1528" height="797" alt="Screenshot 2025-08-25 112032" src="https://github.com/user-attachments/assets/ecde5598-3764-45d4-9948-713acad04ba5" />
 
 ## Result:
 Thus the study on Client Server Chat Applications has been performed
